@@ -2,6 +2,9 @@
 
 Bu proje, çalışanların yönetimini sağlamak için bir Web API uygulamasıdır. Bu README.md dosyası, proje hakkında genel bilgileri ve nasıl kullanılacağına dair talimatları içermektedir.
 
+https://www.loom.com/share/7fdb57ac27bf4f4d828952c945910747 
+Lütfen bu videoyu izleyerek projenin hakkında bilgi alın!
+
 ## Kurulum
 
 1. Bu projeyi klonlayın veya indirin.
